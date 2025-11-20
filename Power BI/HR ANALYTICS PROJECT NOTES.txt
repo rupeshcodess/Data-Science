@@ -1,0 +1,5 @@
+Average age=Average(HR-Analytics[Age])
+Average Salary = Average(HR-Analytics[monthly INcome])
+Average year work=Average(HR-Analytics[total working year])
+total employee count=counta(HR_Analytics[empID])
+
